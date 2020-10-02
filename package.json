@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@saeris/apollo-server-vercel": "^0.4.0",
+    "@vercel/node": "^1.8.3",
+    "graphql": "^15.3.0"
+  }
+}
